@@ -1,0 +1,3 @@
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\rchav\Documents\WindowsPowerShell\Scripts\InstalledScriptInfos'
+INFO  time: initialize in 7.67s
+WARN  no build tool detected in workspace 'C:\Users\rchav\Documents\WindowsPowerShell\Scripts\InstalledScriptInfos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
